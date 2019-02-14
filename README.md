@@ -6,7 +6,7 @@ https://ghassanalregib.com/unique-unsupervised-image-quality-estimation-2/).
 
 ### Usage :
 
-Code for both Image Quality Assessment and Texture Retrieval are provided in separate folder.  
+Code for both Image Quality Assessment and Texture Retrieval are provided in separate folders.  
 For each application, run the demo.m file. Sample original and distorted images (for IQA) and sample texture images are provided in separate folders (iqa and texture). Please copy these images into the main IQA and Texture folders and set the path accordingly in each demo.m file.  
 For IQA : The code outputs the quality of the distorted image which lies between 0 and 1 (1 being the best quality).  
 For Texture Retrieval : The code calculates the similarity between the provided 2 texture images between 0 and 1 (1 being the most similar).  
