@@ -36,7 +36,7 @@ and reliable retrieval performance compared to existing methods.
 
 ### GENERATING ADAPTIVE AND ROBUST FILTER SETS USING AN UNSUPERVISED LEARNING FRAMEWORK
 
-Demonstrating the controlled whitening process of data by visualizing covariance matrices and their learnt corresponding weights :
+Demonstrating the controlled whitening process of data by visualizing covariance matrices and their corresponding learnt weights :
 
 <p align="center">
   <img src=/Images/Control_FilterSets.png/>
