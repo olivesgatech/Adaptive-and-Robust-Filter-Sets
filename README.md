@@ -4,7 +4,7 @@ This is a demonstration of the algorithm described in the paper "[GENERATING ADA
 You can change this program as you like and use it anywhere, but please refer to its original source ([cite](https://ghassanalregibdotcom.files.wordpress.com/2018/03/mohit_icip2017-bib.zip) our [paper](https://ghassanalregibdotcom.files.wordpress.com/2016/10/prabhushankar2017_icip1.pdf) and our web page at
 https://ghassanalregib.com/unique-unsupervised-image-quality-estimation-2/).
 
-### Usage :
+### Usage :  
 
 Code for both Image Quality Assessment and Texture Retrieval are provided in separate folders.  
 For each application, run the demo.m file. Sample original and distorted images (for IQA) and sample texture images are provided in separate folders (iqa and texture). Please copy these images into the main IQA and Texture folders and set the path accordingly in each demo.m file.  
