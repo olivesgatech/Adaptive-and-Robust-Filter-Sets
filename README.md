@@ -36,27 +36,29 @@ and reliable retrieval performance compared to existing methods.
 
 ### GENERATING ADAPTIVE AND ROBUST FILTER SETS USING AN UNSUPERVISED LEARNING FRAMEWORK
 
-The learnt filter weights with the corresponding number of hidden units:
+Demonstrating the controlled whitening process of data by visualizing covariance matrices and their learnt corresponding weights :
 
 <p align="center">
-  <img src=/Images/Visualization.png/>
-</p>   
+  <img src=/Images/Control_FilterSets.png/>
+</p> 
 
-Block Diagram for differentiating weights based on color and edges and testing: 
+The results of the proposed method for IQA on LIVE, and TID13 databases :  
 
 <p align="center">
-  <img src=/Images/BlockDiagram.png/>
-</p>  
+  <img src=/Images/IQA_Results.png/>
+</p> 
 
+The results of the proposed method for Texture Retrieval on CUReT database :  
 
-Applying these weights to original (top) and distorted images (bottom), the obtained feature maps from UNIQUE and MS-UNIQUE:  
 <p align="center">
-  <img src=/Images/FeatMaps.png/>
-</p>  
+  <img src=/Images/Texture_Results.png/>
+</p> 
 
-The results of MS-UNIQUE on LIVE, and TID13 databases :  
+The robustness of the method evaluated on texture retrieval when AWGN is added to the texture images :
 
-![Results Filters](/Images/Results.png)  
+<p align="center">
+  <img src=/Images/Robustness_Results.png/>
+</p>
 
 ### Citation
 
