@@ -64,4 +64,3 @@ The robustness of the method evaluated on texture retrieval when AWGN is added t
 
 IEEE Link : https://ieeexplore.ieee.org/document/8296841  
 ArXiv Link : https://arxiv.org/abs/1811.08927  
-Citation BibTex : https://ghassanalregibdotcom.files.wordpress.com/2018/03/mohit_icip2017-bib.zip  
